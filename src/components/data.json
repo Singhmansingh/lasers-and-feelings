@@ -1,0 +1,37 @@
+{
+    "strengths":[
+        {"name":"Fast","system":"Ship Thrusters"},
+        {"name":"Nimble","system":"Evasive Maneuvers"},
+        {"name":"Well-Armed","system":"Weapon Systems"},
+        {"name":"Powerful Shields","system":"Forcefield"},
+        {"name":"Superior Sensors","system":"Sensor Systems"},
+        {"name":"Cloaking Device","system":"Cloaking Device"},
+        {"name":"Figthercraft","system":"Combat Maneuvers"}
+    ],
+    "problems":[
+        {"name":"Fuel Hog","system":"Energy Supply", "status":"Fuel Low", "info":"Needs energy crystals"},
+        {"name":"Only One Medical Pod","system":"Medical Pod", "status":"Occupied","info":"Captain Darcy is in it"},
+        {"name":"Horrible Circuit Breakers","system":"Sensitive Breakers", "status":"Excessive damage may cause undesired results", "info":"In combat, consoles tend to explode on the bridge"},
+        {"name":"Grim Reputation","system":"Interstellar Reputation", "status":"(20) Incomming messages from the IPD", "info":"Captain Darcy did some bad stuff in the past"}
+        
+    ],
+    "styles":[
+        {"name": "Android"},
+        {"name": "Alien"},
+        {"name": "Dangerous"},
+        {"name": "Heroic"},
+        {"name": "Hot-Shot"},
+        {"name": "Intrepid"},
+        {"name": "Savvy"}
+    ],
+    "roles":[
+        {"name": "Crew", "colorPrimary":"#0054a8", "colorSecondary":"white"},
+        {"name": "Doctor", "colorPrimary":"#FCF8F8", "colorSecondary":"#FA5048"},
+        {"name":"Envoy", "colorPrimary":"#7B50FA", "colorSecondary":"white"},
+        {"name":"Engineer", "colorPrimary":"#F0D000", "colorSecondary":"white"},
+        {"name":"Explorer", "colorPrimary":"#EDA93B", "colorSecondary":"white"},
+        {"name":"Pilot", "colorPrimary":"#D62400", "colorSecondary":"white"},
+        {"name": "Scientist", "colorPrimary":"#FCF8F8", "colorSecondary":"#0054a8"},
+        {"name": "Soldier", "colorPrimary":"#559444", "colorSecondary":"white"}
+    ]
+}

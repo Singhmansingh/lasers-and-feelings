@@ -1,24 +1,8 @@
-# lasers-and-feelings
+# Lasers & Feelings!
 
-## Project setup
-```
-yarn install
-```
+![alt text](https://github.com/Singhmansingh/lasers-and-feelings/raw/master/src/Screenshot.png)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+YOU ARE THE CREW OF THE INTERSTELLAR SCOUT SHIP RAPTOR. Your mission is to explore
+uncharted regions of space, deal with aliens both friendly and deadly, and defend the Consortium
+worlds against space dangers. CAPTAIN DARCY has been overcome by the strange psychic entity
+known as Something Else, leaving you to fend for yourselves while he recovers in a medical pod.
